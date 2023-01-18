@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_roll_device",
+  "name": "obj_night_vision_helmet",
   "spriteId": {
-    "name": "spr_roll_device_item",
-    "path": "sprites/spr_roll_device_item/spr_roll_device_item.yy",
+    "name": "spr_night_vision_helmet_item",
+    "path": "sprites/spr_night_vision_helmet_item/spr_night_vision_helmet_item.yy",
   },
   "solid": false,
   "visible": true,
